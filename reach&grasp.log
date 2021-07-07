@@ -1,0 +1,764 @@
+06/08/2021 08:47:36 AM INFO:Starting application
+06/08/2021 08:47:36 AM INFO:reading config file
+06/08/2021 08:47:36 AM INFO:Successfully read configuration file
+06/08/2021 09:02:23 AM INFO:Starting application
+06/08/2021 09:02:23 AM INFO:reading config file
+06/08/2021 09:02:23 AM INFO:Successfully read configuration file
+06/08/2021 09:03:54 AM INFO:Starting application
+06/08/2021 09:03:54 AM INFO:reading config file
+06/08/2021 09:03:54 AM INFO:Successfully read configuration file
+06/08/2021 09:04:11 AM INFO:Starting application
+06/08/2021 09:04:11 AM INFO:reading config file
+06/08/2021 09:04:11 AM INFO:Successfully read configuration file
+06/08/2021 09:04:19 AM INFO:Starting application
+06/08/2021 09:04:19 AM INFO:reading config file
+06/08/2021 09:04:19 AM INFO:Successfully read configuration file
+06/08/2021 09:04:20 AM ERROR:Leap application could not be opened
+06/08/2021 09:04:26 AM ERROR:Leap application could not be opened
+06/08/2021 09:05:28 AM INFO:Starting application
+06/08/2021 09:05:28 AM INFO:reading config file
+06/08/2021 09:05:28 AM INFO:Successfully read configuration file
+06/08/2021 09:05:56 AM INFO:Starting application
+06/08/2021 09:05:56 AM INFO:reading config file
+06/08/2021 09:05:56 AM INFO:Successfully read configuration file
+06/08/2021 09:06:08 AM INFO:Starting application
+06/08/2021 09:06:08 AM INFO:reading config file
+06/08/2021 09:06:08 AM INFO:Successfully read configuration file
+06/08/2021 09:06:26 AM INFO:Starting application
+06/08/2021 09:06:26 AM INFO:reading config file
+06/08/2021 09:06:26 AM INFO:Successfully read configuration file
+06/08/2021 09:07:06 AM INFO:Starting application
+06/08/2021 09:07:06 AM INFO:reading config file
+06/08/2021 09:07:06 AM INFO:Successfully read configuration file
+06/08/2021 09:08:40 AM INFO:Starting application
+06/08/2021 09:08:40 AM INFO:reading config file
+06/08/2021 09:08:40 AM INFO:Successfully read configuration file
+06/08/2021 09:08:40 AM INFO:Leap Handler moved to thread
+06/08/2021 09:08:40 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:09:13 AM INFO:Starting application
+06/08/2021 09:09:13 AM INFO:reading config file
+06/08/2021 09:09:13 AM INFO:Successfully read configuration file
+06/08/2021 09:09:14 AM INFO:Leap Handler moved to thread
+06/08/2021 09:09:14 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:09:14 AM INFO:Setup devices
+06/08/2021 09:09:31 AM INFO:Starting application
+06/08/2021 09:09:31 AM INFO:reading config file
+06/08/2021 09:09:31 AM INFO:Successfully read configuration file
+06/08/2021 09:09:32 AM INFO:Leap Handler moved to thread
+06/08/2021 09:09:32 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:09:32 AM INFO:Setup devices
+06/08/2021 09:09:50 AM INFO:Starting application
+06/08/2021 09:09:50 AM INFO:reading config file
+06/08/2021 09:09:50 AM INFO:Successfully read configuration file
+06/08/2021 09:09:50 AM INFO:Leap Handler moved to thread
+06/08/2021 09:09:50 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:09:50 AM INFO:Setup devices
+06/08/2021 09:09:51 AM INFO:Here
+06/08/2021 09:09:51 AM ERROR:Leap application could not be opened
+06/08/2021 09:09:57 AM ERROR:Leap application could not be opened
+06/08/2021 09:10:02 AM ERROR:Leap application could not be opened
+06/08/2021 09:12:29 AM INFO:Starting application
+06/08/2021 09:12:29 AM INFO:reading config file
+06/08/2021 09:12:29 AM ERROR:Error reading congfiguration file
+06/08/2021 09:12:30 AM INFO:Leap Handler moved to thread
+06/08/2021 09:12:30 AM INFO:Setup devices
+06/08/2021 09:13:47 AM INFO:Starting application
+06/08/2021 09:13:47 AM INFO:reading config file
+06/08/2021 09:13:47 AM INFO:Successfully read configuration file
+06/08/2021 09:13:47 AM INFO:Leap Handler moved to thread
+06/08/2021 09:13:47 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:13:47 AM INFO:Setup devices
+06/08/2021 09:14:16 AM INFO:Starting application
+06/08/2021 09:14:16 AM INFO:reading config file
+06/08/2021 09:14:16 AM INFO:Successfully read configuration file
+06/08/2021 09:14:16 AM INFO:Leap Handler moved to thread
+06/08/2021 09:14:16 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:14:16 AM INFO:Setup devices
+06/08/2021 09:14:47 AM INFO:Starting application
+06/08/2021 09:14:47 AM INFO:reading config file
+06/08/2021 09:14:47 AM INFO:Successfully read configuration file
+06/08/2021 09:14:47 AM INFO:Leap Handler moved to thread
+06/08/2021 09:14:47 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:14:47 AM INFO:Setup devices
+06/08/2021 09:14:54 AM INFO:Starting application
+06/08/2021 09:14:54 AM INFO:reading config file
+06/08/2021 09:14:54 AM INFO:Successfully read configuration file
+06/08/2021 09:14:54 AM INFO:Leap Handler moved to thread
+06/08/2021 09:14:54 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:14:54 AM INFO:Setup devices
+06/08/2021 09:15:12 AM INFO:Starting application
+06/08/2021 09:15:12 AM INFO:reading config file
+06/08/2021 09:15:12 AM INFO:Successfully read configuration file
+06/08/2021 09:15:12 AM INFO:Leap Handler moved to thread
+06/08/2021 09:15:12 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:15:12 AM INFO:Setup devices
+06/08/2021 09:15:12 AM INFO:Here
+06/08/2021 09:15:23 AM INFO:Starting application
+06/08/2021 09:15:23 AM INFO:reading config file
+06/08/2021 09:15:23 AM INFO:Successfully read configuration file
+06/08/2021 09:15:23 AM INFO:Leap Handler moved to thread
+06/08/2021 09:15:23 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:15:23 AM INFO:Setup devices
+06/08/2021 09:15:33 AM INFO:Starting application
+06/08/2021 09:15:33 AM INFO:reading config file
+06/08/2021 09:15:33 AM INFO:Successfully read configuration file
+06/08/2021 09:15:33 AM INFO:Leap Handler moved to thread
+06/08/2021 09:15:33 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:15:33 AM INFO:Setup devices
+06/08/2021 09:17:05 AM INFO:Starting application
+06/08/2021 09:17:05 AM INFO:reading config file
+06/08/2021 09:17:05 AM INFO:Successfully read configuration file
+06/08/2021 09:17:06 AM INFO:Leap Handler moved to thread
+06/08/2021 09:17:06 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:17:06 AM INFO:Setup devices
+06/08/2021 09:17:15 AM INFO:Starting application
+06/08/2021 09:17:15 AM INFO:reading config file
+06/08/2021 09:17:15 AM INFO:Successfully read configuration file
+06/08/2021 09:17:15 AM INFO:Leap Handler moved to thread
+06/08/2021 09:17:15 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:17:15 AM INFO:Setup devices
+06/08/2021 09:17:18 AM INFO:Starting application
+06/08/2021 09:17:18 AM INFO:reading config file
+06/08/2021 09:17:18 AM INFO:Successfully read configuration file
+06/08/2021 09:17:19 AM INFO:Leap Handler moved to thread
+06/08/2021 09:17:19 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:17:19 AM INFO:Setup devices
+06/08/2021 09:20:22 AM INFO:Starting application
+06/08/2021 09:20:22 AM INFO:reading config file
+06/08/2021 09:20:22 AM INFO:Successfully read configuration file
+06/08/2021 09:20:22 AM INFO:Leap Handler moved to thread
+06/08/2021 09:20:22 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:20:22 AM INFO:Setup devices
+06/08/2021 09:22:10 AM INFO:Starting application
+06/08/2021 09:22:10 AM INFO:reading config file
+06/08/2021 09:22:10 AM INFO:Successfully read configuration file
+06/08/2021 09:22:10 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:22:10 AM INFO:Leap Handler moved to thread
+06/08/2021 09:22:10 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:22:10 AM INFO:Setup devices
+06/08/2021 09:22:10 AM INFO:Here
+06/08/2021 09:23:46 AM INFO:Starting application
+06/08/2021 09:23:46 AM INFO:reading config file
+06/08/2021 09:23:46 AM INFO:Successfully read configuration file
+06/08/2021 09:23:46 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:23:46 AM INFO:Leap Handler moved to thread
+06/08/2021 09:23:46 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:23:46 AM INFO:Setup devices
+06/08/2021 09:23:52 AM INFO:Starting application
+06/08/2021 09:23:52 AM INFO:reading config file
+06/08/2021 09:23:52 AM INFO:Successfully read configuration file
+06/08/2021 09:23:52 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:23:52 AM INFO:Leap Handler moved to thread
+06/08/2021 09:23:52 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:23:52 AM INFO:Setup devices
+06/08/2021 09:23:53 AM INFO:Here
+06/08/2021 09:23:53 AM ERROR:Leap application could not be opened
+06/08/2021 09:44:58 AM INFO:Starting application
+06/08/2021 09:44:58 AM INFO:reading config file
+06/08/2021 09:44:58 AM INFO:Successfully read configuration file
+06/08/2021 09:44:58 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:44:58 AM INFO:Leap Handler moved to thread
+06/08/2021 09:44:58 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:44:58 AM INFO:Setup devices
+06/08/2021 09:44:59 AM INFO:Here
+06/08/2021 09:44:59 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:44:59 AM ERROR:Leap not active, restarting
+06/08/2021 09:44:59 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:44:59 AM ERROR:Leap application could not be opened
+06/08/2021 09:45:04 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:45:04 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:45:09 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:45:09 AM ERROR:Leap not active, restarting
+06/08/2021 09:45:09 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:45:09 AM ERROR:Leap application could not be opened
+06/08/2021 09:45:14 AM ERROR:Leap not active, restarting
+06/08/2021 09:45:14 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:45:14 AM ERROR:Leap application could not be opened
+06/08/2021 09:45:14 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:45:19 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:45:19 AM ERROR:Leap not active, restarting
+06/08/2021 09:45:19 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:45:19 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:05 AM INFO:Starting application
+06/08/2021 09:46:05 AM INFO:reading config file
+06/08/2021 09:46:05 AM INFO:Successfully read configuration file
+06/08/2021 09:46:05 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:46:05 AM INFO:Leap Handler moved to thread
+06/08/2021 09:46:05 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:46:05 AM INFO:Setup devices
+06/08/2021 09:46:06 AM INFO:Here
+06/08/2021 09:46:06 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:06 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:06 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:06 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:11 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:11 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:11 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:11 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:16 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:16 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:16 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:16 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:21 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:21 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:21 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:21 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:26 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:26 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:26 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:26 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:31 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:31 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:31 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:31 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:36 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:36 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:36 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:36 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:41 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:41 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:41 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:41 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:46 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:46 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:46 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:46 AM ERROR:Leap application could not be opened
+06/08/2021 09:46:51 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:46:51 AM ERROR:Leap not active, restarting
+06/08/2021 09:46:51 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:46:51 AM ERROR:Leap application could not be opened
+06/08/2021 09:49:40 AM INFO:Starting application
+06/08/2021 09:49:40 AM INFO:reading config file
+06/08/2021 09:49:40 AM INFO:Successfully read configuration file
+06/08/2021 09:49:40 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:49:40 AM INFO:Leap Handler moved to thread
+06/08/2021 09:49:40 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:49:40 AM INFO:Setup devices
+06/08/2021 09:49:41 AM INFO:Here
+06/08/2021 09:49:41 AM ERROR:Leap not active, restarting
+06/08/2021 09:49:41 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:49:41 AM ERROR:Leap application could not be opened
+06/08/2021 09:49:41 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:49:41 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:49:41 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:49:46 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:49:46 AM ERROR:Leap not active, restarting
+06/08/2021 09:49:46 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:49:46 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:49:46 AM ERROR:Leap application could not be opened
+06/08/2021 09:49:46 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:51:30 AM INFO:Starting application
+06/08/2021 09:51:30 AM INFO:reading config file
+06/08/2021 09:51:30 AM INFO:Successfully read configuration file
+06/08/2021 09:51:30 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:51:30 AM INFO:Leap Handler moved to thread
+06/08/2021 09:51:30 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:51:30 AM INFO:Setup devices
+06/08/2021 09:51:30 AM INFO:Here
+06/08/2021 09:51:31 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:51:31 AM ERROR:Leap not active, restarting
+06/08/2021 09:51:31 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:51:31 AM ERROR:Leap application could not be opened
+06/08/2021 09:51:31 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:51:31 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:51:36 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:51:36 AM ERROR:Leap not active, restarting
+06/08/2021 09:51:36 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:51:36 AM ERROR:Leap application could not be opened
+06/08/2021 09:51:36 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:51:36 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:51:41 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:51:41 AM ERROR:Leap not active, restarting
+06/08/2021 09:51:41 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:51:41 AM ERROR:Leap application could not be opened
+06/08/2021 09:51:41 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:51:41 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:57:41 AM INFO:Starting application
+06/08/2021 09:57:41 AM INFO:reading config file
+06/08/2021 09:57:41 AM INFO:Successfully read configuration file
+06/08/2021 09:57:41 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:57:41 AM INFO:Leap Handler moved to thread
+06/08/2021 09:57:41 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:57:41 AM INFO:Setup devices
+06/08/2021 09:57:42 AM INFO:Here
+06/08/2021 09:57:42 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:57:42 AM ERROR:Leap not active, restarting
+06/08/2021 09:57:42 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:57:42 AM ERROR:Leap application could not be opened
+06/08/2021 09:57:42 AM ERROR:Path exists?True
+06/08/2021 09:57:42 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:57:42 AM ERROR:Path exists?True
+06/08/2021 09:57:42 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:28 AM INFO:Starting application
+06/08/2021 09:58:28 AM INFO:reading config file
+06/08/2021 09:58:28 AM INFO:Successfully read configuration file
+06/08/2021 09:58:28 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 09:58:28 AM INFO:Leap Handler moved to thread
+06/08/2021 09:58:28 AM INFO:Polhemus Handler moved to thread
+06/08/2021 09:58:28 AM INFO:Setup devices
+06/08/2021 09:58:29 AM INFO:Here
+06/08/2021 09:58:29 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:29 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:29 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:29 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:29 AM ERROR:Path exists?True
+06/08/2021 09:58:29 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:29 AM ERROR:Path exists?True
+06/08/2021 09:58:29 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:35 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:35 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:35 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:35 AM ERROR:Path exists?True
+06/08/2021 09:58:35 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:35 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:35 AM ERROR:Path exists?True
+06/08/2021 09:58:35 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:40 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:40 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:40 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:40 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:40 AM ERROR:Path exists?True
+06/08/2021 09:58:40 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:40 AM ERROR:Path exists?True
+06/08/2021 09:58:40 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:45 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:45 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:45 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:45 AM ERROR:Path exists?True
+06/08/2021 09:58:45 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:45 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:45 AM ERROR:Path exists?True
+06/08/2021 09:58:45 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:50 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:50 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:50 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:50 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:50 AM ERROR:Path exists?True
+06/08/2021 09:58:50 AM ERROR:Path exists?True
+06/08/2021 09:58:50 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:50 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:58:55 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:58:55 AM ERROR:Leap not active, restarting
+06/08/2021 09:58:55 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:58:55 AM ERROR:Leap application could not be opened
+06/08/2021 09:58:55 AM ERROR:Path exists?True
+06/08/2021 09:58:55 AM ERROR:Path exists?True
+06/08/2021 09:58:55 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:58:55 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:59:00 AM ERROR:Leap not active, restarting
+06/08/2021 09:59:00 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:59:00 AM ERROR:Leap application could not be opened
+06/08/2021 09:59:00 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:59:00 AM ERROR:Path exists?True
+06/08/2021 09:59:00 AM ERROR:Path exists?True
+06/08/2021 09:59:00 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:59:00 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:59:05 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:59:05 AM ERROR:Leap not active, restarting
+06/08/2021 09:59:05 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:59:05 AM ERROR:Leap application could not be opened
+06/08/2021 09:59:05 AM ERROR:Path exists?True
+06/08/2021 09:59:05 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:59:05 AM ERROR:Path exists?True
+06/08/2021 09:59:05 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:59:10 AM ERROR:Leap not active, restarting
+06/08/2021 09:59:10 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:59:10 AM ERROR:Leap application could not be opened
+06/08/2021 09:59:10 AM ERROR:Path exists?True
+06/08/2021 09:59:10 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:59:10 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:59:10 AM ERROR:Path exists?True
+06/08/2021 09:59:10 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:59:15 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:59:15 AM ERROR:Leap not active, restarting
+06/08/2021 09:59:15 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:59:15 AM ERROR:Leap application could not be opened
+06/08/2021 09:59:15 AM ERROR:Path exists?True
+06/08/2021 09:59:15 AM ERROR:Path exists?True
+06/08/2021 09:59:15 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:59:15 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 09:59:20 AM ERROR:Polhemus not active, restarting
+06/08/2021 09:59:20 AM ERROR:Leap not active, restarting
+06/08/2021 09:59:20 AM ERROR:Polhemus application could not be opened
+06/08/2021 09:59:20 AM ERROR:Leap application could not be opened
+06/08/2021 09:59:20 AM ERROR:Path exists?True
+06/08/2021 09:59:20 AM ERROR:Path exists?True
+06/08/2021 09:59:20 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 09:59:20 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:00:55 AM INFO:Starting application
+06/08/2021 10:00:55 AM INFO:reading config file
+06/08/2021 10:00:55 AM INFO:Successfully read configuration file
+06/08/2021 10:00:55 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': True}
+06/08/2021 10:00:55 AM INFO:Leap Handler moved to thread
+06/08/2021 10:00:55 AM INFO:Polhemus Handler moved to thread
+06/08/2021 10:00:55 AM INFO:Setup devices
+06/08/2021 10:00:56 AM INFO:Here
+06/08/2021 10:00:56 AM ERROR:Leap not active, restarting
+06/08/2021 10:00:56 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:00:56 AM ERROR:Leap application could not be opened
+06/08/2021 10:00:56 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:00:56 AM ERROR:Path exists?True
+06/08/2021 10:00:56 AM ERROR:Path exists?True
+06/08/2021 10:00:56 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:00:56 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:02 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:02 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:02 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:02 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:02 AM ERROR:Path exists?True
+06/08/2021 10:01:02 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:02 AM ERROR:Path exists?True
+06/08/2021 10:01:02 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:07 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:07 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:07 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:07 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:07 AM ERROR:Path exists?True
+06/08/2021 10:01:07 AM ERROR:Path exists?True
+06/08/2021 10:01:07 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:07 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:12 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:12 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:12 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:12 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:12 AM ERROR:Path exists?True
+06/08/2021 10:01:12 AM ERROR:Path exists?True
+06/08/2021 10:01:12 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:12 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:17 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:17 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:17 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:17 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:17 AM ERROR:Path exists?True
+06/08/2021 10:01:17 AM ERROR:Path exists?True
+06/08/2021 10:01:17 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:17 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:22 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:22 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:22 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:22 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:22 AM ERROR:Path exists?True
+06/08/2021 10:01:22 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:22 AM ERROR:Path exists?True
+06/08/2021 10:01:22 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:27 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:27 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:27 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:27 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:27 AM ERROR:Path exists?True
+06/08/2021 10:01:27 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:27 AM ERROR:Path exists?True
+06/08/2021 10:01:27 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:32 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:32 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:32 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:32 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:32 AM ERROR:Path exists?True
+06/08/2021 10:01:32 AM ERROR:Path exists?True
+06/08/2021 10:01:32 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:01:32 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:37 AM ERROR:Leap not active, restarting
+06/08/2021 10:01:37 AM ERROR:Polhemus not active, restarting
+06/08/2021 10:01:37 AM ERROR:Leap application could not be opened
+06/08/2021 10:01:37 AM ERROR:Polhemus application could not be opened
+06/08/2021 10:01:37 AM ERROR:Path exists?True
+06/08/2021 10:01:37 AM ERROR:Path exists?True
+06/08/2021 10:01:37 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:01:37 AM ERROR:Polhemus path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe
+06/08/2021 10:03:21 AM INFO:Starting application
+06/08/2021 10:03:21 AM INFO:reading config file
+06/08/2021 10:03:21 AM INFO:Successfully read configuration file
+06/08/2021 10:03:21 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:03:21 AM INFO:Devices Hidden
+06/08/2021 10:03:22 AM INFO:Leap Handler moved to thread
+06/08/2021 10:03:22 AM INFO:Setup devices
+06/08/2021 10:03:22 AM INFO:Here
+06/08/2021 10:03:22 AM ERROR:Leap not active, restarting
+06/08/2021 10:03:22 AM ERROR:Leap application could not be opened
+06/08/2021 10:03:22 AM ERROR:Path exists?True
+06/08/2021 10:03:22 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:03:28 AM ERROR:Leap not active, restarting
+06/08/2021 10:03:28 AM ERROR:Leap application could not be opened
+06/08/2021 10:03:28 AM ERROR:Path exists?True
+06/08/2021 10:03:28 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:03:33 AM ERROR:Leap not active, restarting
+06/08/2021 10:03:33 AM ERROR:Leap application could not be opened
+06/08/2021 10:03:33 AM ERROR:Path exists?True
+06/08/2021 10:03:33 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:07:03 AM INFO:Starting application
+06/08/2021 10:07:03 AM INFO:reading config file
+06/08/2021 10:07:03 AM INFO:Successfully read configuration file
+06/08/2021 10:07:03 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:07:03 AM INFO:Devices Hidden
+06/08/2021 10:07:03 AM INFO:Leap Handler moved to thread
+06/08/2021 10:07:03 AM INFO:Setup devices
+06/08/2021 10:07:04 AM INFO:Here
+06/08/2021 10:07:04 AM ERROR:Leap not active, restarting
+06/08/2021 10:07:04 AM ERROR:Leap application could not be opened
+06/08/2021 10:07:04 AM ERROR:Path exists?True
+06/08/2021 10:07:04 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:07:11 AM INFO:Starting application
+06/08/2021 10:07:11 AM INFO:reading config file
+06/08/2021 10:07:11 AM INFO:Successfully read configuration file
+06/08/2021 10:07:27 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:07:27 AM INFO:Devices Hidden
+06/08/2021 10:07:28 AM INFO:Leap Handler moved to thread
+06/08/2021 10:07:28 AM INFO:Setup devices
+06/08/2021 10:07:28 AM INFO:Here
+06/08/2021 10:07:28 AM ERROR:Leap not active, restarting
+06/08/2021 10:07:28 AM ERROR:Leap application could not be opened
+06/08/2021 10:07:28 AM ERROR:Path exists?True
+06/08/2021 10:07:28 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:07:34 AM ERROR:Leap not active, restarting
+06/08/2021 10:07:34 AM ERROR:Leap application could not be opened
+06/08/2021 10:07:34 AM ERROR:Path exists?True
+06/08/2021 10:07:34 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:07:37 AM INFO:Successfully saved all recordings
+06/08/2021 10:07:41 AM INFO:Starting application
+06/08/2021 10:07:41 AM INFO:reading config file
+06/08/2021 10:07:41 AM INFO:Successfully read configuration file
+06/08/2021 10:07:41 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:07:41 AM INFO:Devices Hidden
+06/08/2021 10:07:42 AM INFO:Leap Handler moved to thread
+06/08/2021 10:07:42 AM INFO:Setup devices
+06/08/2021 10:07:42 AM INFO:Here
+06/08/2021 10:07:42 AM ERROR:Leap not active, restarting
+06/08/2021 10:07:42 AM ERROR:Leap application could not be opened
+06/08/2021 10:07:42 AM ERROR:Path exists?True
+06/08/2021 10:07:42 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:08:29 AM INFO:Starting application
+06/08/2021 10:08:29 AM INFO:reading config file
+06/08/2021 10:08:29 AM INFO:Successfully read configuration file
+06/08/2021 10:08:29 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:08:29 AM INFO:Devices Hidden
+06/08/2021 10:08:29 AM INFO:Leap Handler moved to thread
+06/08/2021 10:08:29 AM INFO:Setup devices
+06/08/2021 10:08:30 AM INFO:Here
+06/08/2021 10:08:30 AM ERROR:Leap not active, restarting
+06/08/2021 10:08:30 AM ERROR:Leap application could not be opened
+06/08/2021 10:08:30 AM ERROR:Path exists?True
+06/08/2021 10:08:30 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:08:40 AM INFO:Starting application
+06/08/2021 10:08:40 AM INFO:reading config file
+06/08/2021 10:08:40 AM INFO:Successfully read configuration file
+06/08/2021 10:08:40 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:08:40 AM INFO:Devices Hidden
+06/08/2021 10:08:40 AM INFO:Leap Handler moved to thread
+06/08/2021 10:08:40 AM INFO:Setup devices
+06/08/2021 10:08:41 AM INFO:Here
+06/08/2021 10:08:41 AM ERROR:Leap not active, restarting
+06/08/2021 10:08:41 AM ERROR:Leap application could not be opened
+06/08/2021 10:08:41 AM ERROR:Path exists?True
+06/08/2021 10:08:41 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:10:11 AM INFO:Starting application
+06/08/2021 10:10:11 AM INFO:reading config file
+06/08/2021 10:10:11 AM INFO:Successfully read configuration file
+06/08/2021 10:10:11 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:10:11 AM INFO:Devices Hidden
+06/08/2021 10:10:12 AM INFO:Leap Handler moved to thread
+06/08/2021 10:10:12 AM INFO:Setup devices
+06/08/2021 10:10:12 AM INFO:Here
+06/08/2021 10:10:12 AM ERROR:Leap not active, restarting
+06/08/2021 10:10:12 AM ERROR:Exception message: The command was not found or was not executable: C:\Users\Cam\Desktop\Desktop.
+06/08/2021 10:10:12 AM ERROR:Leap application could not be opened
+06/08/2021 10:10:12 AM ERROR:Path exists?True
+06/08/2021 10:10:12 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:11:19 AM INFO:Starting application
+06/08/2021 10:11:19 AM INFO:reading config file
+06/08/2021 10:11:19 AM INFO:Successfully read configuration file
+06/08/2021 10:11:19 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:11:19 AM INFO:Devices Hidden
+06/08/2021 10:11:19 AM INFO:Leap Handler moved to thread
+06/08/2021 10:11:19 AM INFO:Setup devices
+06/08/2021 10:11:20 AM INFO:Here
+06/08/2021 10:11:20 AM ERROR:Leap not active, restarting
+06/08/2021 10:11:20 AM ERROR:Exception message: The command was not found or was not executable: C:\Users\Cam\Desktop\Desktop.
+06/08/2021 10:11:20 AM ERROR:Leap application could not be opened
+06/08/2021 10:11:20 AM ERROR:Path exists?True
+06/08/2021 10:11:20 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:13:30 AM INFO:Starting application
+06/08/2021 10:13:30 AM INFO:reading config file
+06/08/2021 10:13:30 AM INFO:Successfully read configuration file
+06/08/2021 10:13:30 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:13:30 AM INFO:Devices Hidden
+06/08/2021 10:13:30 AM INFO:Leap Handler moved to thread
+06/08/2021 10:13:30 AM INFO:Setup devices
+06/08/2021 10:13:31 AM INFO:Here
+06/08/2021 10:13:31 AM ERROR:Leap not active, restarting
+06/08/2021 10:13:31 AM ERROR:Exception message: The command was not found or was not executable: C:\Users\Cam\Desktop\Desktop.
+06/08/2021 10:13:31 AM ERROR:Leap application could not be opened
+06/08/2021 10:13:31 AM ERROR:Path exists?True
+06/08/2021 10:13:31 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:13:56 AM INFO:Starting application
+06/08/2021 10:13:57 AM INFO:reading config file
+06/08/2021 10:13:57 AM INFO:Successfully read configuration file
+06/08/2021 10:13:57 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:13:57 AM INFO:Devices Hidden
+06/08/2021 10:13:57 AM INFO:Leap Handler moved to thread
+06/08/2021 10:13:57 AM INFO:Setup devices
+06/08/2021 10:13:57 AM INFO:Here
+06/08/2021 10:13:57 AM ERROR:Leap not active, restarting
+06/08/2021 10:13:57 AM ERROR:Exception message: The command was not found or was not executable: C:\Users\Cam\Desktop\Desktop.
+06/08/2021 10:13:57 AM ERROR:Leap application could not be opened
+06/08/2021 10:13:57 AM ERROR:Path exists?True
+06/08/2021 10:13:57 AM ERROR:Leap path: C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Leap\LeapAquisition.exe
+06/08/2021 10:14:54 AM INFO:Starting application
+06/08/2021 10:14:54 AM INFO:reading config file
+06/08/2021 10:14:54 AM INFO:Successfully read configuration file
+06/08/2021 10:14:54 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:14:54 AM INFO:Devices Hidden
+06/08/2021 10:14:54 AM INFO:Leap Handler moved to thread
+06/08/2021 10:14:54 AM INFO:Setup devices
+06/08/2021 10:14:55 AM INFO:Here
+06/08/2021 10:14:55 AM ERROR:Leap not active, restarting
+06/08/2021 10:14:56 AM INFO:Leap application spawned
+06/08/2021 10:15:18 AM INFO:Starting application
+06/08/2021 10:15:18 AM INFO:reading config file
+06/08/2021 10:15:18 AM INFO:Successfully read configuration file
+06/08/2021 10:15:18 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 10:15:18 AM INFO:Devices Hidden
+06/08/2021 10:15:18 AM INFO:Leap Handler moved to thread
+06/08/2021 10:15:18 AM INFO:Setup devices
+06/08/2021 10:15:19 AM INFO:Here
+06/08/2021 10:15:19 AM ERROR:Leap not active, restarting
+06/08/2021 10:15:20 AM INFO:Leap application spawned
+06/08/2021 11:22:43 AM INFO:Starting application
+06/08/2021 11:22:43 AM INFO:reading config file
+06/08/2021 11:22:43 AM INFO:Successfully read configuration file
+06/08/2021 11:22:43 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:22:43 AM INFO:Devices Hidden
+06/08/2021 11:22:43 AM INFO:Leap Handler moved to thread
+06/08/2021 11:22:43 AM INFO:Setup devices
+06/08/2021 11:22:44 AM INFO:Here
+06/08/2021 11:22:44 AM ERROR:Leap not active, restarting
+06/08/2021 11:22:45 AM INFO:Leap application spawned
+06/08/2021 11:23:26 AM INFO:Start calibration, reply: OK
+06/08/2021 11:23:29 AM INFO:Stop Calibration, reply: OK
+06/08/2021 11:23:36 AM INFO:Start calibration, reply: OK
+06/08/2021 11:23:37 AM INFO:Stop Calibration, reply: OK
+06/08/2021 11:25:41 AM INFO:Starting application
+06/08/2021 11:25:41 AM INFO:reading config file
+06/08/2021 11:25:41 AM INFO:Successfully read configuration file
+06/08/2021 11:25:41 AM INFO:{'leap': True, 'polhemus': False, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:25:41 AM INFO:Devices Hidden
+06/08/2021 11:25:41 AM INFO:Leap Handler moved to thread
+06/08/2021 11:25:41 AM INFO:Setup devices
+06/08/2021 11:25:42 AM INFO:Here
+06/08/2021 11:25:42 AM ERROR:Leap not active, restarting
+06/08/2021 11:25:43 AM INFO:Leap application spawned
+06/08/2021 11:26:05 AM INFO:Start calibration, reply: OK
+06/08/2021 11:26:08 AM INFO:Stop Calibration, reply: OK
+06/08/2021 11:26:13 AM INFO:Start recording, reply: OK
+06/08/2021 11:26:14 AM INFO:Getting timestamps from Leap Motion
+06/08/2021 11:26:15 AM INFO:Setting filename: 20210608-112613_visual_leap.csv
+06/08/2021 11:26:15 AM INFO:Sending recording command
+06/08/2021 11:26:15 AM INFO:Leap motion started recording successfully
+06/08/2021 11:26:21 AM INFO:Stop recording, reply: OK
+06/08/2021 11:26:24 AM INFO:Created graph for 20210608-112613_visual_leap.csv
+06/08/2021 11:26:24 AM INFO:Found recording C:\Users\Cam\recordings\20210608-112613_visual
+06/08/2021 11:26:24 AM INFO:Copying C:\Users\Cam\recordings\20210608-112613_visual to drive C:\
+06/08/2021 11:26:24 AM INFO:Copying C:\Users\Cam\recordings\20210608-112613_visual to drive E:\
+06/08/2021 11:26:24 AM INFO:Successfully saved all recordings
+06/08/2021 11:27:08 AM INFO:Starting application
+06/08/2021 11:27:08 AM INFO:reading config file
+06/08/2021 11:27:08 AM INFO:Successfully read configuration file
+06/08/2021 11:27:08 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:27:08 AM INFO:Devices Hidden
+06/08/2021 11:27:08 AM INFO:Leap Handler moved to thread
+06/08/2021 11:27:08 AM INFO:Polhemus Handler moved to thread
+06/08/2021 11:27:08 AM INFO:Setup devices
+06/08/2021 11:27:09 AM INFO:Here
+06/08/2021 11:27:09 AM ERROR:Leap not active, restarting
+06/08/2021 11:27:09 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:27:10 AM INFO:Leap application spawned
+06/08/2021 11:27:40 AM ERROR:Polhemus application could not be opened
+06/08/2021 11:27:40 AM ERROR:Path exists?False
+06/08/2021 11:27:40 AM ERROR:Polhemus path: "C:\Users\Cam\Desktop\Desktop backup\wexpect-master\wexpect-master\dist\Polhemus\PDIconsole.exe"
+06/08/2021 11:28:32 AM WARNING:Didn't start recording as Pupil was not calibrated
+06/08/2021 11:28:41 AM INFO:Start calibration, reply: OK
+06/08/2021 11:28:43 AM INFO:Stop Calibration, reply: OK
+06/08/2021 11:28:54 AM INFO:Stop recording, reply: OK
+06/08/2021 11:28:54 AM INFO:Start recording, reply: OK
+06/08/2021 11:32:08 AM INFO:Starting application
+06/08/2021 11:32:08 AM INFO:reading config file
+06/08/2021 11:32:08 AM INFO:Successfully read configuration file
+06/08/2021 11:32:08 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:32:08 AM INFO:Devices Hidden
+06/08/2021 11:32:09 AM INFO:Leap Handler moved to thread
+06/08/2021 11:32:09 AM INFO:Polhemus Handler moved to thread
+06/08/2021 11:32:09 AM INFO:Setup devices
+06/08/2021 11:32:09 AM INFO:Here
+06/08/2021 11:32:10 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:32:10 AM ERROR:Leap not active, restarting
+06/08/2021 11:32:10 AM INFO:Leap application spawned
+06/08/2021 11:32:33 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:32:33 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:32:33 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:32:33 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:33:21 AM INFO:Start calibration, reply: OK
+06/08/2021 11:33:23 AM INFO:Stop Calibration, reply: OK
+06/08/2021 11:33:25 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:26 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:27 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:28 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:28 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:28 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:30 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:33:31 AM INFO:Successfully saved all recordings
+06/08/2021 11:34:34 AM INFO:Starting application
+06/08/2021 11:34:34 AM INFO:reading config file
+06/08/2021 11:34:34 AM INFO:Successfully read configuration file
+06/08/2021 11:34:34 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:34:34 AM INFO:Devices Hidden
+06/08/2021 11:34:34 AM INFO:Leap Handler moved to thread
+06/08/2021 11:34:34 AM INFO:Polhemus Handler moved to thread
+06/08/2021 11:34:34 AM INFO:Setup devices
+06/08/2021 11:34:35 AM INFO:Here
+06/08/2021 11:34:35 AM ERROR:Leap not active, restarting
+06/08/2021 11:34:35 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:34:36 AM INFO:Leap application spawned
+06/08/2021 11:35:25 AM INFO:Starting application
+06/08/2021 11:35:26 AM INFO:reading config file
+06/08/2021 11:35:26 AM INFO:Successfully read configuration file
+06/08/2021 11:35:26 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:35:26 AM INFO:Devices Hidden
+06/08/2021 11:35:26 AM INFO:Leap Handler moved to thread
+06/08/2021 11:35:26 AM INFO:Polhemus Handler moved to thread
+06/08/2021 11:35:26 AM INFO:Setup devices
+06/08/2021 11:35:26 AM INFO:Here
+06/08/2021 11:35:27 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:35:27 AM ERROR:Leap not active, restarting
+06/08/2021 11:35:28 AM INFO:Leap application spawned
+06/08/2021 11:35:42 AM WARNING:Polhemus was not ready to record
+06/08/2021 11:35:45 AM INFO:Successfully saved all recordings
+06/08/2021 11:37:52 AM INFO:Starting application
+06/08/2021 11:37:52 AM INFO:reading config file
+06/08/2021 11:37:52 AM INFO:Successfully read configuration file
+06/08/2021 11:37:52 AM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/08/2021 11:37:52 AM INFO:Devices Hidden
+06/08/2021 11:37:52 AM INFO:Leap Handler moved to thread
+06/08/2021 11:37:52 AM INFO:Polhemus Handler moved to thread
+06/08/2021 11:37:52 AM INFO:Setup devices
+06/08/2021 11:37:53 AM INFO:Here
+06/08/2021 11:37:53 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:37:53 AM ERROR:Leap not active, restarting
+06/08/2021 11:37:54 AM INFO:Leap application spawned
+06/08/2021 11:38:21 AM ERROR:Polhemus not plugged in
+06/08/2021 11:38:22 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:38:22 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:38:22 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:38:22 AM ERROR:Polhemus not active, restarting
+06/08/2021 11:38:22 AM ERROR:Polhemus not active, restarting
+06/24/2021 09:13:40 PM INFO:Starting application
+06/24/2021 09:13:40 PM INFO:reading config file
+06/24/2021 09:13:40 PM INFO:Successfully read configuration file
+06/24/2021 09:13:40 PM INFO:{'leap': True, 'polhemus': True, 'pupil': True, 'Allow changes': False}
+06/24/2021 09:13:40 PM INFO:Devices Hidden
+06/24/2021 09:13:40 PM INFO:Leap Handler moved to thread
+06/24/2021 09:13:40 PM INFO:Polhemus Handler moved to thread
+06/24/2021 09:13:40 PM INFO:Setup devices
+06/24/2021 09:13:41 PM INFO:Here
+06/24/2021 09:13:42 PM ERROR:Polhemus not active, restarting
+06/24/2021 09:13:42 PM ERROR:Leap not active, restarting
+06/24/2021 09:13:42 PM INFO:Leap application spawned
+06/24/2021 09:13:43 PM ERROR:Polhemus not plugged in
